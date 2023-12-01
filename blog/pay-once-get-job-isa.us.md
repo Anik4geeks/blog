@@ -25,7 +25,7 @@ featured: true
 
 We are accepting the challenge of offering you a new way to become a Software Developer. 4Geeks is now offering an ISA (Income Sharing Agreement) for anyone looking to enroll in our Full-time programs. 9 Weeks will take you to get the skills + 10 weeks (average) to find a new job, and you will only need to start paying your tuition once you land a Job above $35,000 per year (pre-tax). 
 
-Coding Education has become an important asset for those who are willing (i) to change careers; (ii) launch a new startup; (iii) undertake new projects; or (iv) enhancing their ongoing careers with new skills. However, the tuition fee has been a burden for those who are committed to Learn To Code but does not have the resources to undertake such a commitment. Education shall not be a matter of How Much, but a matter of How committed you are. 
+Coding Education has become an important asset for those who are looking (i) to change careers; (ii) launch a new startup; (iii) undertake new projects; or (iv) enhancing their ongoing careers with new skills. However, the tuition fee has been a burden for those who are committed to Learn To Code but does not have the resources to undertake such a commitment. Education shall not be a matter of How Much, but a matter of How committed you are. 
 
 The ISA payment option will be offered to full-time students under certain conditions: previous knowledge, background experience, time commitment, interest and goals to find an immediate job in Coding. 
 
