@@ -35,10 +35,9 @@ As we mentioned earlier, the portfolio should speak for itself and be consistent
 
 ### Important skills to show on a Full Stack Developer Portfolio
 
-Because full stack development includes both, front-end and back-end, it is necessary for a portfolio to demonstrate proficiency in both areas. If you do not have experience, you can still expose the languages ​​and tools that you learned in the course(s) that you have taken in your learning, whether they are paid or free.
+Because full stack development includes both the front-end and the back-end, a full-stack portfolio needs to demonstrate proficiency in both areas. If you do not have completed projects to show, focus on  the languages ​​and tools that you learned in the courses you have taken, independent of whether they are paid or free.
 
-Mention which frameworks you are familiar with, which ones you use and what you managed to do with that knowledge. This with both disciplines (front and back). The largest frameworks and tools for developers are easy to find in the study plans of certain coding academies built to cover the entire Full Stack spectrum like this [full stack coding bootcamp](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer) program.
-
+Mention which frameworks you are familiar with, which ones you use and how you have been able to apply that knowledge for both the front and back ends. At a  [full stack coding bootcamp](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer) like the one at 4geeks Academy, you will learn to use the frameworks and tools that are most important for full-stack developer positions.
 
 ### Tips for Building an Effective Full Stack Developer Portfolio
 
